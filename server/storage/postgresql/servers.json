@@ -3,13 +3,13 @@
 
         "1": {
 
-            "Name": "Base",
+            "Name": "Rumah Sakit Yarsi HRIS",
             "Group": "Servers",
             "Port": 5433,
-            "Username": "user",
+            "Username": "rsyarsi",
             "Host": "host.docker.internal",
             "SSLMode": "prefer",
-            "MaintenanceDB": "base"
+            "MaintenanceDB": "rsyarsi_hris"
         }
     }
 }
